@@ -1,0 +1,44 @@
+header {
+		background-color: #446d84b3;
+		text-align: center;
+		color: white;
+		padding: 7px;
+
+	   }
+*{
+	margin: 0px;
+}
+
+footer{
+	background-color: #0a171f;
+	text-align: center;
+	color: white;
+	padding: 7px
+
+}
+body{
+	background-image: url(12.jpg);
+	background-size: cover;
+	font-family: arial; tomaha}
+
+fieldset{
+	background-color: #0e07079e
+}	
+
+legend,label,input{display: block;}
+
+input {text-align: center; margin-left:600px; }
+legend,label{font-size: 20px;color: white;position: center;margin-left:600px; font-weight: bold;}		
+ 
+ .regester input[type="text"] , input[type="password"] , input[type="submit"] , input[type="reset"],input[type="email"]
+ {
+ 	border: none;
+ 	border-bottom: 1px solid #fff;
+ 	background: transparent;
+ 	outline: none;
+ 	height: 40px;
+ 	color:#fff;
+ 	font-size: 16px
+ }
+
+
